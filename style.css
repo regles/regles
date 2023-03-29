@@ -1,0 +1,60 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600&family=My+Soul&display=swap');
+
+
+h1{
+    text-transform: uppercase;
+    text-align: center;
+    font-family: 'Cinzel', sans-serif;
+    text-shadow: 9px 3px 5px rgb(168, 168, 168);
+
+}
+body{
+    background-image:url(back\ ground\ 3.webp);
+    height: 300 vh;
+    font-size: xx-large;
+}
+
+#intro{
+    text-align: center;
+}
+
+#p1{
+    text-align: left;
+}
+
+#titre1{
+    font-family: 'Cinzel', sans-serif;
+}
+
+#titre2{font-family: 'Cinzel', sans-serif;
+
+}
+
+#tableau1{
+    border-collapse: collapse;
+    min-width: 400px;
+    width: auto;
+    box-shadow: 0 5px 50px rgba(0,0,0,0.15);
+    margin: 100px auto;
+    border: 2px solid rgb(0, 0, 0);
+}
+thead{
+    background-color:rgb(154, 154, 255) ;
+}
+tbody{
+    background-color:rgb(218, 223, 250);
+}
+
+#texte3{
+    text-align:left;
+}
+
+h2{font-family: 'Cinzel', sans-serif;
+
+}
+
+#fin{
+    text-align: center;
+}
